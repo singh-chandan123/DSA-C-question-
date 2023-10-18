@@ -100,8 +100,4 @@ vector<int>ans=merge(v1,v2);
 int s=0;
 int e=ans.size()-1;
 return insertintobst(s,e,ans);
-
-
-
-
 }
